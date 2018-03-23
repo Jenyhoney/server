@@ -18,4 +18,3 @@ public class WishesServer
      System.out.println(message2);
      dstream .close(); istream.close(); sock.close(); sersock.close();
   }
-}
